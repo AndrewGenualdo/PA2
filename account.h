@@ -8,7 +8,7 @@
 #include <string>
 using namespace std;
 
-const int MAX_USERS = 2000;
+
 
 struct Account {
     string mName,

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/andrew.genualdo/Desktop/GitHub/PA2/cmake-build-debug"
+			"value" : "c:/Users/drewg/Desktop/Dev/PA2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/andrew.genualdo/Desktop/GitHub/PA2/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/drewg/Desktop/Dev/PA2/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/andrew.genualdo/Desktop/GitHub/PA2"
+			"value" : "C:/Users/drewg/Desktop/Dev/PA2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/andrew.genualdo/Desktop/GitHub/PA2/cmake-build-debug"
+			"value" : "C:/Users/drewg/Desktop/Dev/PA2/cmake-build-debug"
 		},
 		{
 			"name" : "PA2_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/andrew.genualdo/Desktop/GitHub/PA2"
+			"value" : "C:/Users/drewg/Desktop/Dev/PA2"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

@@ -8,7 +8,7 @@
 #include <string>
 using namespace std;
 
-const int MAX_ADMINS = 10;
+
 
 struct Admin {
     string mID;
