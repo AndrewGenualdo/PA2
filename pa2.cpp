@@ -26,11 +26,10 @@
 using namespace std;
 
 
-
 int main()
 {
     cout.setf(ios::fixed | ios::showpoint);
     cout.precision(2);
-    ATM();
+    ATM atm = ATM();
     return 0;
 }

@@ -419,8 +419,10 @@ int ATM::stateGeneralDeposit(int &account)
         {
             users[account].mBalance += value;
             saveAccount(users[account]);
+
             balance += value;
             saveBalance();
+
             cout << "You have deposited $" << value << " into your account! You now have $"
                  << users[account].mBalance << "!" << endl;
             return STATE_GENERAL_CHOOSE;
