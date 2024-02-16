@@ -536,6 +536,9 @@ int ATM::stateGeneralWithdraw(int &account)
         {
             cout << "The ATM does not have that much in it's balance!" << endl;
         }
+        else if(value != (int) value) {
+            cout << "You may not withdraw non-dollar amounts!" << endl;
+        }
         else
         {
             users[account].mWithdrawn += value;

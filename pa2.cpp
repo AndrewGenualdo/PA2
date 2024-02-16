@@ -30,6 +30,6 @@ int main()
 {
     cout.setf(ios::fixed | ios::showpoint);
     cout.precision(2);
-    ATM atm = ATM();
+    ATM atm;
     return 0;
 }
