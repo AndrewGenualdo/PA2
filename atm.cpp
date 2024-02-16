@@ -188,7 +188,7 @@ void ATM::saveBalance()
 }
 
 /*     Pre: Admin accounts must be loaded and an admin must be signed in
- *    Post: data/admins.pa2 will be updated with the logged-in admin's new pin
+ *    Post: data/admins.pa2 will be updated with the logged-in admins new pin
  * Purpose: Allow admins to change their pin with console input
  ***********************************************************************************************************/
 int ATM::stateAdminChangePin(int &account)
@@ -536,7 +536,8 @@ int ATM::stateGeneralWithdraw(int &account)
         {
             cout << "The ATM does not have that much in it's balance!" << endl;
         }
-        else if(value != (int) value) {
+        else if(value != (int) value)
+        {
             cout << "You may not withdraw non-dollar amounts!" << endl;
         }
         else
